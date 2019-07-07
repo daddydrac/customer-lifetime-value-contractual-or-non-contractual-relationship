@@ -8,7 +8,7 @@ There are two classes of business contexts that influence how a data scientist s
 
 2. Whether the setting is contractual or non-contractual. 
 
-Discrete purchases occur at fixed periods or frequencies, whereas continuous purchases occur at any time. Whether purchases are contractual or not determines whether customer churn is visible or must be inferred; This example is for non-copntractual, but you can hook up <strong>AutoML for Customer Churn</strong> project, [here](https://github.com/joehoeller/AutoML-with-Genetic-Algorthims-to-Accurately-Predict-Customer-Churn), for a contractual business.
+Discrete purchases occur at fixed periods or frequencies, whereas continuous purchases occur at any time. <strong>Whether purchases are contractual or not determines whether customer churn is visible or must be inferred;</strong> This example is for non-contractual, but you can hook up <strong>AutoML for Customer Churn</strong> project, [here](https://github.com/joehoeller/AutoML-with-Genetic-Algorthims-to-Accurately-Predict-Customer-Churn), for a contractual business.
 
 CLV models can provide lots of actionable information, like the probability that a customer will churn or a population-level prediction of how many orders customers will be placing at a given time. These insights are critical for data-driven retention measures and sales forecasts, respectively.
 
