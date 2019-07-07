@@ -8,7 +8,7 @@ There are two classes of business contexts that influence how a data scientist s
 
 2. Whether the setting is contractual or non-contractual. 
 
-Discrete purchases occur at fixed periods or frequencies, whereas continuous purchases occur at any time. Whether purchases are contractual or not determines whether customer churn is visible or must be inferred; This example is for non-copntractual, but you can hook up AutoML for Customer Churn project, [here](https://github.com/joehoeller/AutoML-with-Genetic-Algorthims-to-Accurately-Predict-Customer-Churn), for a contractual business.
+Discrete purchases occur at fixed periods or frequencies, whereas continuous purchases occur at any time. Whether purchases are contractual or not determines whether customer churn is visible or must be inferred; This example is for non-copntractual, but you can hook up <strong>AutoML for Customer Churn</strong> project, [here](https://github.com/joehoeller/AutoML-with-Genetic-Algorthims-to-Accurately-Predict-Customer-Churn), for a contractual business.
 
 Additional reading:
 
