@@ -1,4 +1,4 @@
-# Customer lifetime value analysis
+# Customer lifetime value analysis for a contract and non-contract based business
 
 Unfortunately, many businesses calculate CLV using historical customer behavior without accounting for variation in that behavior. For example, a customer who buys several expensive items at once might be assigned a higher value than a customer who consistently buys moderately priced items — even if he or she never buys from the business again after the initial purchase. 
 
