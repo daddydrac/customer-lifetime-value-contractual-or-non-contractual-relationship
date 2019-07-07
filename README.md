@@ -10,11 +10,15 @@ There are two classes of business contexts that influence how a data scientist s
 
 Discrete purchases occur at fixed periods or frequencies, whereas continuous purchases occur at any time. Whether purchases are contractual or not determines whether customer churn is visible or must be inferred; This example is for non-copntractual, but you can hook up <strong>AutoML for Customer Churn</strong> project, [here](https://github.com/joehoeller/AutoML-with-Genetic-Algorthims-to-Accurately-Predict-Customer-Churn), for a contractual business.
 
+CLV models can provide lots of actionable information, like the probability that a customer will churn or a population-level prediction of how many orders customers will be placing at a given time. These insights are critical for data-driven retention measures and sales forecasts, respectively.
+
 Additional reading:
 
 * [Modelling customer lifetime value in contractual settings](https://pdfs.semanticscholar.org/0d02/c0faa1ada84a1a67a5dc134826b453394966.pdf)
 
 * ["What's a Customer Worth?" (non-contractual setting), by Susan Li](https://towardsdatascience.com/whats-a-customer-worth-8daf183f8a4f)
+
+* [Gamma Gamma Model](http://kpei.me/blog/?p=921)
 
 
 ## How to set up the project
