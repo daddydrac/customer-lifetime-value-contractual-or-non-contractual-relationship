@@ -52,6 +52,4 @@ Boilerplate code credits for this code go to [Susan Li](https://github.com/susan
 
 If Machine Learning for Customer Lifetime Value for your customers is important to you or your business, and you need expert skills to get the job done, please [get in touch](https://www.linkedin.com/in/computer-vision-engineer/).
 
-### Contact
 
-Email: joehoeller@gmail.com
