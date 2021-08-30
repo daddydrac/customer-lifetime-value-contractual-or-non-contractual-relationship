@@ -50,6 +50,5 @@ Run the code given in ipython notebook `customer_lifetime_value.ipynb`
 ## Credit
 Boilerplate code credits for this code go to [Susan Li](https://github.com/susanli2016), I just made it more accessible to a contractual lifetime value analysis which can be coupled with my [AutoML for Customer Churn](https://github.com/joehoeller/AutoML-with-Genetic-Algorthims-to-Accurately-Predict-Customer-Churn) project.
 
-If Machine Learning for Customer Lifetime Value for your customers is important to you or your business, and you need expert skills to get the job done, please [get in touch](https://www.linkedin.com/in/computer-vision-engineer/).
 
 
